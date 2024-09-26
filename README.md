@@ -1,4 +1,21 @@
 ## Hi there 👋
+My name is Haydn.
+
+### About me
+* I’m currently working on recreating the T-38C Talon for the flight simulator DCS World
+* I love playing Ice Hockey
+* In my spare time, I like work on fun coding projects to solve problems
+
+### Coding languages
+* Python
+* Lua
+* Java
+* JS
+* HTML/CSS (in combination with JS and REACT)
+* currently learning C++/C
+
+### Why blueberrypi-studio?
+Well... Raspberrypi was taken...
 
 <!--
 **blueberrypi-studio/blueberrypi-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
