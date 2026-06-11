@@ -1,10 +1,11 @@
 ## Hi there 👋
 My name is Haydn.
 
-### About me
-* I’m currently working on recreating the T-38C Talon for the flight simulator DCS World
-* I love playing Ice Hockey
-* In my spare time, I like work on fun coding projects to solve problems
+### Flight Sim Portfolio
+* DCS: T-38C Talon
+* DCS: AH-1G Cobra
+* DCS: F-100D (Checklist Window, Manual)
+
 
 ### Coding languages
 * Python
